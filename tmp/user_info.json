@@ -1,0 +1,9 @@
+{
+  "Denosman": {
+    "id": 000001,
+    "name": ":Дмитрий Мускатин",
+    "email": "muskatin@gmail.com",
+    "is_active": true,
+    "registration_date": "2024-10-24"
+  }
+}
